@@ -1,0 +1,164 @@
+Documentation
+
+Directory structure:
+
+code-challenge-template\answers comprises of these folders and files
+	a. code-challenge-template\answers\logs
+	b. code-challenge-template\answers\static
+	c. code-challenge-template\answers\table_generation_queries
+	d. code-challenge-template\answers\documentation_of_work
+	e. code-challenge-template\answers\tests
+	f. app.py
+	g. data_ingestion_pipeline.py
+	
+
+a. code-challenge-template\answers\logs 
+	
+	Directory captures the log file for data_ingestion_pipeline.py script run
+
+b. code-challenge-template\answers\static
+
+	Directory has the swagger.yml file which captures the documentation for developed APIs
+	
+c. code-challenge-template\answers\table_generation_queries
+	
+	Directory has the sql queries to create data tables for the given tasks.
+	
+	weather_data_table.sql -- SQL query to create table and its attributes type.
+	weather_data_stats.sql -- SQL query to create table for weather stats and its attributes type.
+	aggregation_query.sql -- SQL query to capture the aggregation mentioned in the question.
+	
+
+d. code-challenge-template\answers\documentation_of_work
+	
+	Directory has the documentation doc.
+
+e. code-challenge-template\answers\tests
+
+	Directory consists of test scripts for API testing.
+	
+f. code-challenge-template\answers\app.py
+	
+	Flask backend code with two developed APIs which are documented in swagger at location code-challenge-template\answers\static\swagger.yml
+	
+g. code-challenge-template\answers\data_ingestion_pipeline.py
+
+	Python script which feeds on the input source files and ingests the data to database and automate the process. This script is neatly commented.
+Problem 1 - Data Modeling:
+
+CREATE TABLE weather_data(
+    id integer PRIMARY KEY,
+    time_date date,
+    maximum_temperature float,
+    minimum_temperature float,
+    precipitation float,
+    location VARCHAR(100),
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problem 2 – Ingestion:
+
+code-challenge-template\answers\data_ingestion_pipeline.py
+
+Python script which feeds on the input source files and ingests the data to database and automate the process. This script is neatly commented.
+Logs are captured as file under logs folder 
+code-challenge-template\answers\logs under file data_ingestion_pipeline.log 
+ 
+Data seen in postgres pgadmin:
+
+ 
+Problem – 3 :
+
+Stats Table schema:
+
+CREATE TABLE weather_data_stats(
+    id integer PRIMARY KEY,
+    year int,
+    location VARCHAR(100),
+    avg_max_temp_celsius VARCHAR(50),
+    avg_min_temp_celsius VARCHAR(50),
+    total_precipitation_cm VARCHAR(50)
+);
+Aggregation query :
+
+SELECT 
+    EXTRACT(YEAR from time_date) AS year, 
+    location, 
+    AVG(maximum_temperature) AS avg_max_temp_celsius,
+    AVG(minimum_temperature) AS avg_min_temp_celsius,
+    SUM(precipitation/10) AS total_precipitation_cm
+FROM 
+    weather_data
+GROUP BY 
+    EXTRACT(YEAR from time_date), location;
+ 
+
+Problem 4 - REST API:
+
+code-challenge-template\answers\app.py
+	
+	Flask backend code with two developed APIs which are documented in swagger at location code-challenge-template\answers\static\swagger.yml
+
+
+
+Swagger API Documentation:
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Postman API Testing:
+
+ 
+
+ 
+
+Optional Question:
+Assume you are asked to get your code running in the cloud using AWS. What tools and AWS services would you use to deploy 
+the API, database, and a scheduled version of your data ingestion code? Write up a description of your approach.
+
+a.	Firstly I will be storing the data in S3 bucket.
+b.	I will be using AWS lambda and AWS cloudwatch services events to schedule data ingestion code.
+c.	We can write the function in AWS lambda using python and trigger the flow to ingest the data.
+d.	I will be using Amazon RDS service to create a database, I will be creating postgresql database for this.
+e.	I can deploy the developed python APIs over AWS EC2 instance and  fetch the data based on the input parameters. I can also use AWS API gateway for this.
+
+f.	For CI/CD I will use AWS Codepipeline for automating the deployment of the application.  
+
+Unit Testing:
+
+ 
+
+Pylint on the developed code:
+ 
+
+Runs:
+To ingest code:
+python code-challenge-template/answers/data_ingestion_pipeline.py 
+To start Flask application and APIs:
+python code-challenge-template/answers/app.py
+
