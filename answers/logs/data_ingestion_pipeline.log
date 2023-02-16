@@ -1,0 +1,210 @@
+15-Feb-23 16:32:41 - INFO - Connecting to the postgres database
+15-Feb-23 16:32:41 - INFO - Connecting to the postgres database completed successfully
+15-Feb-23 16:32:41 - INFO - Reading the files in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00110072.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00110187.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00110338.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00111280.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00111436.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00112140.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00112193.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00112348.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00112483.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00113335.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00113879.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00114108.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00114198.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00114442.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00114823.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115079.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115326.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115515.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115712.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115768.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115833.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115901.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00115943.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116446.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116526.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116558.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116579.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116610.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116738.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00116910.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00117551.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00118147.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00118740.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00118916.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00119241.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00119354.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00120177.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00120200.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00120676.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00120784.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00121030.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00121229.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00121425.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00121747.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00121873.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00122149.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00123418.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00123513.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00123527.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00124008.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00124181.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00124837.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00125237.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00125337.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00126001.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00126580.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00126705.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127125.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127298.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127482.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127522.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127646.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127755.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127875.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00127935.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00128036.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129080.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129113.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129253.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129511.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129557.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00129670.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00130112.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00130133.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00130600.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00131402.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00131533.txt in the location ../wx_data/
+15-Feb-23 16:32:41 - INFO - Reading the file ../wx_data/USC00131635.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00132724.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00132789.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00132864.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00132977.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00132999.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00134063.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00134142.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00134735.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00134894.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00135769.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00135796.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00135952.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00137147.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00137161.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00137979.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00138296.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00138688.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250070.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250130.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250375.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250420.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250435.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250622.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00250640.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00251145.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00251200.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00252020.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00252100.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00252205.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00252820.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00252840.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253035.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253175.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253185.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253365.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253615.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253630.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253660.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253715.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253735.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00253910.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00254110.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00254440.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00254900.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00254985.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00255080.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00255310.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00255470.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00255565.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00256040.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00256135.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00256570.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00256970.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00257070.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00257515.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00257715.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00258133.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00258395.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00258465.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00258480.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00258915.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00259090.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00259510.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00331072.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00331152.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00331541.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00331592.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00331890.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00332098.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00332119.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00332791.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00333375.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00333758.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00333780.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00334189.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00335041.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00335297.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00335315.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00336118.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00336196.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00336600.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00336781.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338313.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338534.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338552.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338769.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338822.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00338830.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Reading the file ../wx_data/USC00339312.txt in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Completed Reading all the files in the location ../wx_data/
+15-Feb-23 16:32:42 - INFO - Total time elapsed for reading all the files is 1.3068692684173584
+15-Feb-23 16:32:42 - INFO - Total entries are 1729957
+15-Feb-23 16:32:42 - INFO - Dropping table weather_data from database
+15-Feb-23 16:32:42 - INFO - Completed Dropping table weather_data from database
+15-Feb-23 16:32:42 - INFO - Creating table weather_data in database
+15-Feb-23 16:32:42 - INFO - Completed Creating table weather_data in database
+15-Feb-23 16:32:42 - INFO - Started Ingesting data from populated data_frame to weather_data table
+15-Feb-23 16:32:59 - INFO - Added 100000 records into the weather_data table
+15-Feb-23 16:33:14 - INFO - Added 200000 records into the weather_data table
+15-Feb-23 16:33:30 - INFO - Added 300000 records into the weather_data table
+15-Feb-23 16:33:46 - INFO - Added 400000 records into the weather_data table
+15-Feb-23 16:34:03 - INFO - Added 500000 records into the weather_data table
+15-Feb-23 16:34:19 - INFO - Added 600000 records into the weather_data table
+15-Feb-23 16:34:34 - INFO - Added 700000 records into the weather_data table
+15-Feb-23 16:34:50 - INFO - Added 800000 records into the weather_data table
+15-Feb-23 16:35:05 - INFO - Added 900000 records into the weather_data table
+15-Feb-23 16:35:21 - INFO - Added 1000000 records into the weather_data table
+15-Feb-23 16:35:37 - INFO - Added 1100000 records into the weather_data table
+15-Feb-23 16:35:52 - INFO - Added 1200000 records into the weather_data table
+15-Feb-23 16:36:08 - INFO - Added 1300000 records into the weather_data table
+15-Feb-23 16:36:25 - INFO - Added 1400000 records into the weather_data table
+15-Feb-23 16:36:41 - INFO - Added 1500000 records into the weather_data table
+15-Feb-23 16:36:57 - INFO - Added 1600000 records into the weather_data table
+15-Feb-23 16:37:13 - INFO - Added 1700000 records into the weather_data table
+15-Feb-23 16:37:17 - INFO - Completed Ingesting data from populated data_frame to weather_data table
+15-Feb-23 16:37:17 - INFO - Total 1729957 weather records were ingested into weather_data table
+15-Feb-23 16:37:17 - INFO - Total time elapsed for ingesting all the data is 274.68271231651306
+15-Feb-23 16:37:17 - INFO - Executing aggregation query in the database
+15-Feb-23 16:37:19 - INFO - Completed Executing aggregation query in the database
+15-Feb-23 16:37:19 - INFO - Dropping weather_data_stats from database
+15-Feb-23 16:37:19 - INFO - Completed Dropping weather_data_stats from database
+15-Feb-23 16:37:19 - INFO - Creating weather_data_stats table in database
+15-Feb-23 16:37:19 - INFO - Completed creating weather_data_stats table in database
+15-Feb-23 16:37:19 - INFO - Started Ingesting data to weather_data_stats table
+15-Feb-23 16:37:19 - INFO - Completed Ingesting data to weather_data_stats table
+15-Feb-23 16:37:19 - INFO - Total 4820 weather records were ingested into weather_data_stats table
+15-Feb-23 16:37:19 - INFO - Total time elapsed for ingesting all the data is 0.357358455657959
+15-Feb-23 16:37:19 - INFO - Process flow complete
+15-Feb-23 16:37:19 - INFO - Total time elapsed for the entire process is 278.45623898506165
